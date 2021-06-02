@@ -1,7 +1,9 @@
-### Hi there 👋
+### 👋 Hi there
 
 I'm Felipe Chan, a Software Engineer at BairesDev, working remotely from Sao Paulo, Brazil.
 I've been developing tech solutions for 5 years.
+
+## 🤝 Let's connect?
 
 Check out my [![Linkedin: felipechan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/felipechan/)
 
@@ -43,4 +45,3 @@ These are some of the technologies and tools that I work with:
   </a>
 </p>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
