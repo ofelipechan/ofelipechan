@@ -1,6 +1,6 @@
 # 👋 Hello World
 
-I am Felipe Chan, a Software Engineer at BairesDev, working remotely from Sao Paulo, Brazil.
+I am Felipe Chan, a Software Engineer working remotely from Sao Paulo, Brazil.
 I've been developing tech solutions for 5 years.
 
 ## 🤝 Let's connect?
