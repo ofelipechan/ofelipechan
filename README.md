@@ -36,7 +36,7 @@ These are some of the technologies and tools that I work with:
 
 ## ⚙️ Analytics
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ofelipechan)
+<!-- ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ofelipechan) -->
 
 <p align="left">
   <a href="https://github.com/ofelipechan">
