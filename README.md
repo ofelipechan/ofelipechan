@@ -30,3 +30,17 @@ These are some of the technologies and tools that I work with:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+## ⚙️ Analytics
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ofelipechan)
+
+<p align="left">
+  <a href="https://github.com/ofelipechan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ofelipechan&count_private=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipechan&layout=compact&langs_count=8"/>
+  </a>
+</p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
