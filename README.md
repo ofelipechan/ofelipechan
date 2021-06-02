@@ -5,7 +5,7 @@ I've been developing tech solutions for 5 years.
 
 ## 🤝 Let's connect?
 
-Check out my [![Linkedin: felipechan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/felipechan/)
+Check out my [![Linkedin: felipechan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipechan/)](https://www.linkedin.com/in/felipechan/)
 
 ## ⚡ Technologies
 
