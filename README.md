@@ -32,7 +32,7 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
-![ClickUp](https://img.shields.io/badge/-ClickUp-190032?style=flat-square&logo=clickup)
+![ClickUp](https://img.shields.io/badge/-ClickUp-fafbfc?style=flat-square&logo=clickup)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
