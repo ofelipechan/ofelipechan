@@ -21,7 +21,7 @@ These are some of the technologies and tools that I work with:
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-339933?style=flat-square&logo=vue)
-![Nestjs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=nestjs)
+![Nestjs](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
