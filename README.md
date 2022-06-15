@@ -1,7 +1,7 @@
 # 👋 Hello World
 
 I am Felipe Chan, a Software Engineer working remotely from Sao Paulo, Brazil.
-I've been developing tech solutions for +5 years.
+I've been developing tech solutions for +6 years.
 
 ## 🤝 Let's connect?
 
