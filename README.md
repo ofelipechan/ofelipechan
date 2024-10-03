@@ -42,7 +42,6 @@ These are some of the technologies and tools that I work with:
 
 <p align="left">
   <a href="https://github.com/ofelipechan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ofelipechan&count_private=true&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipechan&layout=compact&langs_count=8"/>
   </a>
 </p>
